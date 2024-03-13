@@ -1,0 +1,465 @@
+/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+.divider-text:before,
+.divider-text:after {
+    content: "";
+    flex: 1;
+    border-bottom: 1px solid #ddd; /* Light gray border */
+    margin: auto 0.25rem;
+}
+
+.card-container {
+    margin-bottom: 30px; /* Reduced margin for a more compact layout */
+}
+
+a.navbar-brand {
+    white-space: normal;
+    text-align: center;
+    word-break: break-all;
+    color: #333; /* Dark gray text color */
+}
+
+.nav-pills .nav-link.active,
+.nav-pills .show > .nav-link {
+    color: #fff;
+    background-color: #ff5722; /* Deep orange background */
+    border-color: #ff5722; /* Deep orange border color */
+}
+
+html {
+    font-size: 16px; /* Standard font size */
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 18px; /* Increased font size for larger screens */
+    }
+}
+
+.border-top,
+.border-bottom {
+    border-color: #eee; /* Light gray border color */
+}
+
+.box-shadow {
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1); /* Subtle box shadow */
+}
+
+button.accept-policy {
+    font-size: 1.1rem; /* Slightly larger font size for better visibility */
+    line-height: 1.5; /* Increased line height for better spacing */
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+.badge {
+    background-color: #ff9800; /* Orange badge color */
+    color: #fff;
+}
+
+.text-warning {
+    color: #ff5722 !important; /* Deep orange text color */
+}
+
+.text-secondary {
+    color: #546e7a !important; /* Slate gray text color */
+}
+
+.text-primary {
+    color: #283593 !important; /* Indigo text color */
+}
+
+.text-success {
+    color: #4caf50 !important; /* Green text color */
+}
+
+.bg-primary {
+    background-color: #283593 !important; /* Indigo background color */
+}
+
+.bg-secondary {
+    background-color: #607d8b !important; /* Blue gray background color */
+}
+
+.bg-success {
+    background-color: #4caf50 !important; /* Green background color */
+}
+
+.card {
+    border-color: #546e7a !important; /* Slate gray border color */
+}
+
+
+/* Button Outline Primary Styles */
+.btn-outline-primary {
+    color: #192E2F;
+    border-color: #192E2F;
+}
+
+    .btn-outline-primary:hover {
+        color: #fff;
+        background-color: #192E2F;
+        border-color: #192E2F;
+    }
+
+    .btn-check:focus + .btn-outline-primary,
+    .btn-outline-primary:focus {
+        box-shadow: 0 0 0 0.25rem rgba(25, 46, 47, 0.5);
+    }
+
+    .btn-check:checked + .btn-outline-primary,
+    .btn-check:active + .btn-outline-primary,
+    .btn-outline-primary:active,
+    .btn-outline-primary.active,
+    .btn-outline-primary.dropdown-toggle.show {
+        color: #fff;
+        background-color: #192E2F;
+        border-color: #192E2F;
+    }
+
+        .btn-check:checked + .btn-outline-primary:focus,
+        .btn-check:active + .btn-outline-primary:focus,
+        .btn-outline-primary:active:focus,
+        .btn-outline-primary.active:focus,
+        .btn-outline-primary.dropdown-toggle.show:focus {
+            box-shadow: 0 0 0 0.25rem rgba(25, 46, 47, 0.5);
+        }
+
+    .btn-outline-primary:disabled,
+    .btn-outline-primary.disabled {
+        color: #192E2F;
+        background-color: transparent;
+    }
+
+/* Button Outline Warning Styles */
+.btn-outline-warning {
+    color: #C07b24;
+    border-color: #C07b24;
+}
+
+    .btn-outline-warning:hover {
+        color: #fff;
+        background-color: #C07b24;
+        border-color: #C07b24;
+    }
+
+    .btn-check:focus + .btn-outline-warning,
+    .btn-outline-warning:focus {
+        box-shadow: 0 0 0 0.25rem rgba(25, 46, 47, 0.5);
+    }
+
+    .btn-check:checked + .btn-outline-warning,
+    .btn-check:active + .btn-outline-warning,
+    .btn-outline-warning:active,
+    .btn-outline-warning.active,
+    .btn-outline-warning.dropdown-toggle.show {
+        color: #fff;
+        background-color: #C07b24;
+        border-color: #C07b24;
+    }
+
+        .btn-check:checked + .btn-outline-warning:focus,
+        .btn-check:active + .btn-outline-warning:focus,
+        .btn-outline-warning:active:focus,
+        .btn-outline-warning.active:focus,
+        .btn-outline-warning.dropdown-toggle.show:focus {
+            box-shadow: 0 0 0 0.25rem rgba(25, 46, 47, 0.5);
+        }
+
+    .btn-outline-warning:disabled,
+    .btn-outline-warning.disabled {
+        color: #C07b24;
+        background-color: transparent;
+    }
+
+/* Button Outline Secondary Styles */
+.btn-outline-secondary {
+    color: #134b5f;
+    border-color: #134b5f;
+}
+
+    .btn-outline-secondary:hover {
+        color: #fff;
+        background-color: #134b5f;
+        border-color: #134b5f;
+    }
+
+    .btn-check:focus + .btn-outline-secondary,
+    .btn-outline-secondary:focus {
+        box-shadow: 0 0 0 0.25rem rgba(25, 46, 47, 0.5);
+    }
+
+/* Button Primary Styles */
+.btn-primary {
+    color: #fff;
+    background-color: #007bff; /* Primary blue color */
+    border-color: #007bff; /* Primary blue border color */
+}
+
+    .btn-primary:hover {
+        color: #fff;
+        background-color: #0056b3; /* Darker blue on hover */
+        border-color: #0056b3; /* Darker blue border on hover */
+    }
+
+    .btn-check:focus + .btn-primary,
+    .btn-primary:focus {
+        color: #fff;
+        background-color: #0056b3; /* Darker blue on focus */
+        border-color: #0056b3; /* Darker blue border on focus */
+        box-shadow: 0 0 0 0.25rem rgba(0, 123, 255, 0.5); /* Lighter blue shadow on focus */
+    }
+
+    .btn-check:checked + .btn-primary,
+    .btn-check:active + .btn-primary,
+    .btn-primary:active,
+    .btn-primary.active,
+    .show > .btn-primary.dropdown-toggle {
+        color: #fff;
+        background-color: #0056b3; /* Darker blue when checked or active */
+        border-color: #0056b3; /* Darker blue border when checked or active */
+    }
+
+        .btn-check:checked + .btn-primary:focus,
+        .btn-check:active + .btn-primary:focus,
+        .btn-primary:active:focus,
+        .btn-primary.active:focus,
+        .show > .btn-primary.dropdown-toggle:focus {
+            box-shadow: 0 0 0 0.25rem rgba(0, 123, 255, 0.5); /* Lighter blue shadow on focus when checked or active */
+        }
+
+    .btn-primary:disabled,
+    .btn-primary.disabled {
+        color: #fff;
+        background-color: #007bff; /* Primary blue when disabled */
+        border-color: #007bff; /* Primary blue border when disabled */
+    }
+
+/* Button Danger Styles */
+.btn-danger {
+    color: #fff;
+    background-color: #dc3545; /* Danger red color */
+    border-color: #dc3545; /* Danger red border color */
+}
+
+    .btn-danger:hover {
+        color: #fff;
+        background-color: #c82333; /* Darker red on hover */
+        border-color: #bd2130; /* Darker red border on hover */
+    }
+
+    .btn-check:focus + .btn-danger,
+    .btn-danger:focus {
+        color: #fff;
+        background-color: #c82333; /* Darker red on focus */
+        border-color: #bd2130; /* Darker red border on focus */
+        box-shadow: 0 0 0 0.25rem rgba(220, 53, 69, 0.5); /* Lighter red shadow on focus */
+    }
+
+    .btn-check:checked + .btn-danger,
+    .btn-check:active + ..btn-danger,
+    .btn-danger:active,
+    .btn-danger.active,
+    .show > .btn-danger.dropdown-toggle {
+        color: #fff;
+        background-color: #c82333; /* Darker red when checked or active */
+        border-color: #bd2130; /* Darker red border when checked or active */
+    }
+
+        .btn-check:checked + .btn-danger:focus,
+        .btn-check:active + .btn-danger:focus,
+        .btn-danger:active:focus,
+        .btn-danger.active:focus,
+        .show > .btn-danger.dropdown-toggle:focus {
+            box-shadow: 0 0 0 0.25rem rgba(220, 53, 69, 0.5); /* Lighter red shadow on focus when checked or active */
+        }
+
+    .btn-danger:disabled,
+    .btn-danger.disabled {
+        color: #fff;
+        background-color: #dc3545; /* Danger red when disabled */
+        border-color: #dc3545; /* Danger red border when disabled */
+    }
+
+/* Button Secondary Styles */
+.btn-secondary {
+    color: #fff;
+    background-color: #134b5f; /* Secondary color */
+    border-color: #134b5f; /* Secondary border color */
+}
+
+    .btn-secondary:hover {
+        color: #fff;
+        background-color: #1a6985; /* Darker secondary color on hover */
+        border-color: #1a6985; /* Darker secondary border color on hover */
+    }
+
+    .btn-check:focus + .btn-secondary,
+    .btn-secondary:focus {
+        color: #fff;
+        background-color: #1a6985; /* Darker secondary color on focus */
+        border-color: #1a6985; /* Darker secondary border color on focus */
+        box-shadow: 0 0 0 0.25rem rgba(60, 60, 60, 0.5); /* Lighter secondary shadow on focus */
+    }
+
+    .btn-check:checked + .btn-secondary,
+    .btn-check:active + .btn-secondary,
+    .btn-secondary:active,
+    .btn-secondary.active,
+    .show > .btn-secondary.dropdown-toggle {
+        color: #fff;
+        background-color: #1a6985; /* Darker secondary color when checked or active */
+        border-color: #1a6985; /* Darker secondary border color when checked or active */
+    }
+
+        .btn-check:checked + .btn-secondary:focus,
+        .btn-check:active + .btn-secondary:focus,
+        .btn-secondary:active:focus,
+        .btn-secondary.active:focus,
+        .show > .btn-secondary.dropdown-toggle:focus {
+            box-shadow: 0 0 0 0.25rem rgba(60, 60, 60, 0.5); /* Lighter secondary shadow on focus when checked or active */
+        }
+
+    .btn-secondary:disabled,
+    .btn-secondary.disabled {
+        color: #fff;
+        background-color: #1a6985; /* Secondary color when disabled */
+        border-color: #1a6985; /* Secondary border color when disabled */
+    }
+
+/* Button Warning Styles */
+.btn-warning {
+    color: #fff;
+    background-color: #BD7418; /* Warning color */
+    border-color: #BD7418; /* Warning border color */
+}
+
+    .btn-warning:hover {
+        color: #fff;
+        background-color: #c6883a; /* Darker warning color on hover */
+        border-color: #c6883a; /* Darker warning border color on hover */
+    }
+
+    .btn-check:focus + .btn-warning,
+    .btn-warning:focus {
+        color: #fff;
+        background-color: #c6883a; /* Darker warning color on focus */
+        border-color: #c6883a; /* Darker warning border color on focus */
+        box-shadow: 0 0 0 0.25rem rgba(60, 60, 60, 0.5); /* Lighter warning shadow on focus */
+    }
+
+    .btn-check:checked + .btn-warning,
+    .btn-check:active + .btn-warning,
+    .btn-warning:active,
+    .btn-warning.active,
+    .show > .btn-warning.dropdown-toggle {
+        color: #fff;
+        background-color: #c6883a; /* Darker warning color when checked or active */
+        border-color: #c6883a; /* Darker warning border color when checked or active */
+    }
+
+        .btn-check:checked + .btn-warning:focus,
+        .btn-check:active + .btn-warning:focus,
+        .btn-warning:active:focus,
+        .btn-warning.active:focus,
+        .show > .btn-warning.dropdown-toggle:focus {
+            box-shadow: 0 0 0 0.25rem rgba(60, 60, 60, 0.5); /* Lighter warning shadow on focus when checked or active */
+        }
+
+    .btn-warning:disabled,
+    .btn-warning.disabled {
+        color: #fff;
+        background-color: #c6883a; /* Warning color when disabled */
+        border-color: #c6883a; /* Warning border color when disabled */
+    }
+
+/* Button Success Styles */
+.btn-outline-success {
+    color: #4b7147; /* Success text color */
+    border-color: #4b7147; /* Success border color */
+}
+
+    .btn-outline-success:hover {
+        color: #fff; /* White text on hover */
+        background-color: #4b7147; /* Darker success color on hover */
+        border-color: #4b7147; /* Darker success border color on hover */
+    }
+
+    .btn-check:focus + .btn-outline-success,
+    .btn-outline-success:focus {
+        box-shadow: 0 0 0 0.25rem rgba(25, 46, 47, 0.5); /* Lighter success shadow on focus */
+    }
+
+    .btn-check:checked + .btn-outline-success,
+    .btn-check:active + .btn-outline-success,
+    .btn-outline-success:active,
+    .btn-outline-success.active,
+    .btn-outline-success.dropdown-toggle.show {
+        color: #fff; /* White text when checked or active */
+        background-color: #4b7147; /* Darker success color when checked or active */
+        border-color: #4b7147; /* Darker success border color when checked or active */
+    }
+
+        .btn-check:checked + .btn-outline-success:focus,
+        .btn-check:active + .btn-outline-success:focus,
+        .btn-outline-success:active:focus,
+        .btn-outline-success.active:focus,
+        .btn-outline-success.dropdown-toggle.show:focus {
+            box-shadow: 0 0 0 0.25rem rgba(25, 46, 47, 0.5); /* Lighter success shadow on focus when checked or active */
+        }
+
+    .btn-outline-success:disabled,
+    .btn-outline-success.disabled {
+        color: #4b7147; /* Success text color when disabled */
+        background-color: transparent; /* Transparent background when disabled */
+    }
+
+/* Button Primary Styles */
+.btn-success {
+    color: #fff; /* White text color */
+    background-color: #4b7147; /* Success color */
+    border-color: #4b7147; /* Success border color */
+}
+
+    .btn-success:hover {
+        color: #fff; /* White text on hover */
+        background-color: #578553; /* Darker success color on hover */
+        border-color: #578553; /* Darker success border color on hover */
+    }
+
+    .btn-check:focus + .btn-success,
+    .btn-success:focus {
+        color: #fff; /* White text on focus */
+        background-color: #578553; /* Darker success color on focus */
+        border-color: #578553; /* Darker success border color on focus */
+        box-shadow: 0 0 0 0.25rem rgba(60, 60, 60, 0.5); /* Lighter success shadow on focus */
+    }
+
+    .btn-check:checked + .btn-success,
+    .btn-check:active + ..btn-success,
+    .btn-success:active,
+    .btn-success.active,
+    .show > .btn-success.dropdown-toggle {
+        color: #fff; /* White text when checked or active */
+        background-color: #578553; /* Darker success color when checked or active */
+        border-color: #578553; /* Darker success border color when checked or active */
+    }
+
+        .btn-check:checked + .btn-success:focus,
+        .btn-check:active + .btn-success:focus,
+        .btn-success:active:focus,
+        .btn-success.active:focus,
+        .show > .btn-success.dropdown-toggle:focus {
+            box-shadow: 0 0 0 0.25rem rgba(60, 60, 60, 0.5); /* Lighter success shadow on focus when checked or active */
+        }
+
+    .btn-success:disabled,
+    .btn-success.disabled {
+        color: #fff; /* White text color when disabled */
+        background-color: #578553; /* Darker success color when disabled */
+        border-color: #578553; /* Darker success border color when disabled */
+    }

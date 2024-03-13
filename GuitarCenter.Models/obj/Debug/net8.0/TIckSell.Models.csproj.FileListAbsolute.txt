@@ -1,0 +1,12 @@
+C:\Users\botik\Source\Repos\GuitarCenterWeb\GuitarCenter.Models\bin\Debug\net8.0\TIckSell.Models.deps.json
+C:\Users\botik\Source\Repos\GuitarCenterWeb\GuitarCenter.Models\bin\Debug\net8.0\TIckSell.Models.dll
+C:\Users\botik\Source\Repos\GuitarCenterWeb\GuitarCenter.Models\bin\Debug\net8.0\TIckSell.Models.pdb
+C:\Users\botik\Source\Repos\GuitarCenterWeb\GuitarCenter.Models\obj\Debug\net8.0\TIckSell.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\botik\Source\Repos\GuitarCenterWeb\GuitarCenter.Models\obj\Debug\net8.0\TIckSell.Models.AssemblyInfoInputs.cache
+C:\Users\botik\Source\Repos\GuitarCenterWeb\GuitarCenter.Models\obj\Debug\net8.0\TIckSell.Models.AssemblyInfo.cs
+C:\Users\botik\Source\Repos\GuitarCenterWeb\GuitarCenter.Models\obj\Debug\net8.0\TIckSell.Models.csproj.CoreCompileInputs.cache
+C:\Users\botik\Source\Repos\GuitarCenterWeb\GuitarCenter.Models\obj\Debug\net8.0\TIckSell.Models.sourcelink.json
+C:\Users\botik\Source\Repos\GuitarCenterWeb\GuitarCenter.Models\obj\Debug\net8.0\TIckSell.Models.dll
+C:\Users\botik\Source\Repos\GuitarCenterWeb\GuitarCenter.Models\obj\Debug\net8.0\refint\TIckSell.Models.dll
+C:\Users\botik\Source\Repos\GuitarCenterWeb\GuitarCenter.Models\obj\Debug\net8.0\TIckSell.Models.pdb
+C:\Users\botik\Source\Repos\GuitarCenterWeb\GuitarCenter.Models\obj\Debug\net8.0\ref\TIckSell.Models.dll

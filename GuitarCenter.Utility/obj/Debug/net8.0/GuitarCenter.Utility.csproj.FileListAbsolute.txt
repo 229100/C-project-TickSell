@@ -1,0 +1,13 @@
+C:\Users\botik\Source\Repos\GuitarCenterWeb\GuitarCenter.Utility\bin\Debug\net8.0\GuitarCenter.Utility.deps.json
+C:\Users\botik\Source\Repos\GuitarCenterWeb\GuitarCenter.Utility\bin\Debug\net8.0\GuitarCenter.Utility.dll
+C:\Users\botik\Source\Repos\GuitarCenterWeb\GuitarCenter.Utility\bin\Debug\net8.0\GuitarCenter.Utility.pdb
+C:\Users\botik\Source\Repos\GuitarCenterWeb\GuitarCenter.Utility\obj\Debug\net8.0\GuitarCenter.Utility.csproj.AssemblyReference.cache
+C:\Users\botik\Source\Repos\GuitarCenterWeb\GuitarCenter.Utility\obj\Debug\net8.0\GuitarCenter.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\botik\Source\Repos\GuitarCenterWeb\GuitarCenter.Utility\obj\Debug\net8.0\GuitarCenter.Utility.AssemblyInfoInputs.cache
+C:\Users\botik\Source\Repos\GuitarCenterWeb\GuitarCenter.Utility\obj\Debug\net8.0\GuitarCenter.Utility.AssemblyInfo.cs
+C:\Users\botik\Source\Repos\GuitarCenterWeb\GuitarCenter.Utility\obj\Debug\net8.0\GuitarCenter.Utility.csproj.CoreCompileInputs.cache
+C:\Users\botik\Source\Repos\GuitarCenterWeb\GuitarCenter.Utility\obj\Debug\net8.0\GuitarCenter.Utility.sourcelink.json
+C:\Users\botik\Source\Repos\GuitarCenterWeb\GuitarCenter.Utility\obj\Debug\net8.0\GuitarCenter.Utility.dll
+C:\Users\botik\Source\Repos\GuitarCenterWeb\GuitarCenter.Utility\obj\Debug\net8.0\refint\GuitarCenter.Utility.dll
+C:\Users\botik\Source\Repos\GuitarCenterWeb\GuitarCenter.Utility\obj\Debug\net8.0\GuitarCenter.Utility.pdb
+C:\Users\botik\Source\Repos\GuitarCenterWeb\GuitarCenter.Utility\obj\Debug\net8.0\ref\GuitarCenter.Utility.dll

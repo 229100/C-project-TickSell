@@ -1,0 +1,181 @@
+﻿@model IEnumerable<Product>
+<style>
+    body {
+        font-family: 'Arial', sans-serif;
+        margin: 0;
+        padding: 0;
+        background-color: #f0f0f0;
+    }
+
+        body::before {
+            content: "";
+            background: url('https://img3.akspic.ru/crops/0/0/3/2/22300/22300-prohlada-imax-prostranstvo-muzykalnyj_ispolnitel-kinorezhisser-7680x4320.jpg') center/cover fixed;
+            filter: blur(4px);
+            position: fixed;
+            top: 0;
+            right: 0;
+            bottom: 0;
+            left: 0;
+            z-index: -1;
+            pointer-events: none; /* Добавьте это свойство, чтобы предотвратить воздействие на интерактивные элементы */
+        }
+
+
+    .gallery-container {
+        width: 90%;
+        max-width: 1000px;
+        margin: 10px auto; /* Уменьшил отступ сверху */
+        overflow: hidden;
+        position: relative;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+
+    .gallery-title {
+        text-align: center;
+        font-size: 32px;
+        color: white;
+        margin-top: 5px; /* Уменьшил отступ сверху */
+    }
+
+    .gallery-inner {
+        display: flex;
+        transition: transform 0.5s ease;
+    }
+
+    .gallery-item {
+        flex: 0 0 100%;
+        box-sizing: border-box;
+        position: relative;
+    }
+
+    img {
+        width: 100%;
+        height: auto;
+        display: block;
+    }
+
+    .caption {
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        width: 100%;
+        background: rgba(0, 0, 0, 0.5);
+        color: #fff;
+        padding: 10px;
+        text-align: center;
+        font-size: 18px;
+        opacity: 0.8;
+    }
+
+    .arrow {
+        position: absolute;
+        top: 50%;
+        transform: translateY(-50%);
+        font-size: 28px;
+        cursor: pointer;
+        color: #333;
+        background-color: #fff;
+        padding: 10px;
+        border-radius: 50%;
+        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    }
+
+        .arrow.left {
+            left: 10px;
+        }
+
+        .arrow.right {
+            right: 10px;
+        }
+</style>
+
+<body>
+
+    <div class="gallery-title">Афиша событий</div>
+    <div class="gallery-container">
+        <div class="gallery-inner">
+            <div class="gallery-item">
+                <img src="https://img3.akspic.ru/crops/6/3/6/9/3/139636/139636-ekstremalnyj_vid_sporta-obuv-sovremennyj_tanec-balet-skachok-3840x2160.jpg" alt="Image 1">
+                <div class="caption">Шоу танцев</div>
+            </div>
+            <div class="gallery-item">
+                <img src="https://img2.akspic.ru/crops/2/0/5/0/4/140502/140502-kompyuternaya_igra-illustracia-videoigra-playstation_4-supergeroj-3840x2160.jpg" alt="Image 2">
+                <div class="caption">Фильм "Бэтмен"</div>
+            </div>
+            <div class="gallery-item">
+                <img src="https://img1.akspic.ru/crops/8/9/4/9/3/139498/139498-nebo-muzykant-predstavlenie-prodyuser-koncertnyj_zal-3840x2160.jpg" alt="Image 3">
+                <div class="caption">Концерт "Alan Walker"</div>
+            </div>
+
+        </div>
+        <div class="arrow left" onclick="prevSlide()">&#8249;</div>
+        <div class="arrow right" onclick="nextSlide()">&#8250;</div>
+    </div>
+
+    <script>
+        let currentIndex = 0;
+        const totalItems = document.querySelectorAll('.gallery-item').length;
+
+        function showSlide(index) {
+            const galleryInner = document.querySelector('.gallery-inner');
+            const itemWidth = document.querySelector('.gallery-item').offsetWidth;
+            const newPosition = -index * itemWidth;
+            galleryInner.style.transform = `translateX(${newPosition}px)`;
+            currentIndex = index;
+        }
+
+        function nextSlide() {
+            currentIndex = (currentIndex + 1) % totalItems;
+            showSlide(currentIndex);
+        }
+
+        function prevSlide() {
+            currentIndex = (currentIndex - 1 + totalItems) % totalItems;
+            showSlide(currentIndex);
+        }
+    </script>
+
+    </body>
+
+<div class="row pb-4 card-container">
+    @foreach (var product in Model)
+    {
+        <div class="col-lg-3 col-sm-6">
+            <div class="row p-2">
+                <div class="col-12 p-1">
+                    <div class="card border-0 p-3 shadow border-top border-5 rounded">
+                        @if (product.ProductImages != null && product.ProductImages.Count() > 0)
+                        {
+                            <img src="@product.ProductImages.FirstOrDefault().ImageUrl" class="card-img-top rounded" style="width: 100%; height: 300px; object-fit: cover;" />
+                        }
+                        else
+                        {
+                            <img src="https://placehold.co/350x620/png" class="card-img-top rounded" style="width: 100%; height: 300px; object-fit: cover;" />
+                        }
+                        <div class="card-body pb-0">
+                            <div class="pl-1">
+                                <p class="card-Name h5 text-warning opacity-75 text-center">@product.Name</p>
+                            </div>
+                            <div class="pl-1">
+
+                            </div>
+                            <div class="pl-1">
+                                <p class="text-dark text-opacity-75 text-center">
+                                    Цена:
+                                    <span>
+                                        @product.Price.ToString("c")
+                                    </span>
+                                </p>
+                            </div>
+                        </div>
+                        <div class="text-center">
+                            <a asp-action="Details" asp-route-productId="@product.Id" class="btn btn-primary bg-gradient border-0">
+                                Детали
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    }
+</div>

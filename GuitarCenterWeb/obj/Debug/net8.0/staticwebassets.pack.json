@@ -1,0 +1,361 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\botik\\source\\repos\\GuitarCenterWeb\\GuitarCenterWeb\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\TickSellWeb.bundle.scp.css",
+      "PackagePath": "staticwebassets\\TickSellWeb.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\botik\\source\\repos\\GuitarCenterWeb\\GuitarCenterWeb\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\botik\\source\\repos\\GuitarCenterWeb\\GuitarCenterWeb\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\botik\\source\\repos\\GuitarCenterWeb\\GuitarCenterWeb\\wwwroot\\images\\lawn_leaf.jpg",
+      "PackagePath": "staticwebassets\\images\\lawn_leaf.jpg"
+    },
+    {
+      "Id": "C:\\Users\\botik\\source\\repos\\GuitarCenterWeb\\GuitarCenterWeb\\wwwroot\\images\\product\\0c28ae01-3af4-4aeb-ba4f-63081721696a.png",
+      "PackagePath": "staticwebassets\\images\\product\\0c28ae01-3af4-4aeb-ba4f-63081721696a.png"
+    },
+    {
+      "Id": "C:\\Users\\botik\\source\\repos\\GuitarCenterWeb\\GuitarCenterWeb\\wwwroot\\images\\product\\34ebba60-91ac-451b-9a12-530edfba9b97.png",
+      "PackagePath": "staticwebassets\\images\\product\\34ebba60-91ac-451b-9a12-530edfba9b97.png"
+    },
+    {
+      "Id": "C:\\Users\\botik\\source\\repos\\GuitarCenterWeb\\GuitarCenterWeb\\wwwroot\\images\\product\\4d58ba79-4420-41d1-af5c-19cd91753071.png",
+      "PackagePath": "staticwebassets\\images\\product\\4d58ba79-4420-41d1-af5c-19cd91753071.png"
+    },
+    {
+      "Id": "C:\\Users\\botik\\source\\repos\\GuitarCenterWeb\\GuitarCenterWeb\\wwwroot\\images\\product\\4e1ed3fc-aca5-473c-94e6-621c1b2549fd.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\4e1ed3fc-aca5-473c-94e6-621c1b2549fd.jpg"
+    },
+    {
+      "Id": "C:\\Users\\botik\\source\\repos\\GuitarCenterWeb\\GuitarCenterWeb\\wwwroot\\images\\product\\5cdb3100-7501-4ffa-8555-7336d3ec2ec9.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\5cdb3100-7501-4ffa-8555-7336d3ec2ec9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\botik\\source\\repos\\GuitarCenterWeb\\GuitarCenterWeb\\wwwroot\\images\\product\\8257b3f0-3326-4e6a-86ed-89e28d2eb3d9.jpeg",
+      "PackagePath": "staticwebassets\\images\\product\\8257b3f0-3326-4e6a-86ed-89e28d2eb3d9.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\botik\\source\\repos\\GuitarCenterWeb\\GuitarCenterWeb\\wwwroot\\images\\product\\e276a677-59d1-4798-9986-2a99c706824b.png",
+      "PackagePath": "staticwebassets\\images\\product\\e276a677-59d1-4798-9986-2a99c706824b.png"
+    },
+    {
+      "Id": "C:\\Users\\botik\\source\\repos\\GuitarCenterWeb\\GuitarCenterWeb\\wwwroot\\images\\product\\edb3a717-57a9-429e-800f-ef85a3f962c1.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\edb3a717-57a9-429e-800f-ef85a3f962c1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\botik\\source\\repos\\GuitarCenterWeb\\GuitarCenterWeb\\wwwroot\\images\\products\\product-12\\425672f7-8532-491f-964f-000d876145d8.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-12\\425672f7-8532-491f-964f-000d876145d8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\botik\\source\\repos\\GuitarCenterWeb\\GuitarCenterWeb\\wwwroot\\images\\products\\product-13\\8cee7bd8-e57f-47b0-8778-f1ae4f27ca64.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-13\\8cee7bd8-e57f-47b0-8778-f1ae4f27ca64.jpg"
+    },
+    {
+      "Id": "C:\\Users\\botik\\source\\repos\\GuitarCenterWeb\\GuitarCenterWeb\\wwwroot\\images\\products\\product-14\\6a2aadcc-6b85-40b0-92ad-e189e870f86b.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-14\\6a2aadcc-6b85-40b0-92ad-e189e870f86b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\botik\\source\\repos\\GuitarCenterWeb\\GuitarCenterWeb\\wwwroot\\images\\products\\product-1\\75688920-84f5-4873-b555-690acd04d9dd.png",
+      "PackagePath": "staticwebassets\\images\\products\\product-1\\75688920-84f5-4873-b555-690acd04d9dd.png"
+    },
+    {
+      "Id": "C:\\Users\\botik\\source\\repos\\GuitarCenterWeb\\GuitarCenterWeb\\wwwroot\\images\\products\\product-1\\c5d2a9c9-127d-46ec-ae33-c76fb3db4084.png",
+      "PackagePath": "staticwebassets\\images\\products\\product-1\\c5d2a9c9-127d-46ec-ae33-c76fb3db4084.png"
+    },
+    {
+      "Id": "C:\\Users\\botik\\source\\repos\\GuitarCenterWeb\\GuitarCenterWeb\\wwwroot\\images\\products\\product-2\\017f9c10-e889-4a85-9f00-c9f4d8cd0676.png",
+      "PackagePath": "staticwebassets\\images\\products\\product-2\\017f9c10-e889-4a85-9f00-c9f4d8cd0676.png"
+    },
+    {
+      "Id": "C:\\Users\\botik\\source\\repos\\GuitarCenterWeb\\GuitarCenterWeb\\wwwroot\\images\\products\\product-2\\c58dd260-f024-4424-9d69-dd4b692fca91.png",
+      "PackagePath": "staticwebassets\\images\\products\\product-2\\c58dd260-f024-4424-9d69-dd4b692fca91.png"
+    },
+    {
+      "Id": "C:\\Users\\botik\\source\\repos\\GuitarCenterWeb\\GuitarCenterWeb\\wwwroot\\images\\products\\product-3\\e7488e89-63e4-46f3-a586-f7f7116eb45d.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-3\\e7488e89-63e4-46f3-a586-f7f7116eb45d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\botik\\source\\repos\\GuitarCenterWeb\\GuitarCenterWeb\\wwwroot\\images\\products\\product-4\\d901c731-de17-4281-8a92-f582f2a0a82a.png",
+      "PackagePath": "staticwebassets\\images\\products\\product-4\\d901c731-de17-4281-8a92-f582f2a0a82a.png"
+    },
+    {
+      "Id": "C:\\Users\\botik\\source\\repos\\GuitarCenterWeb\\GuitarCenterWeb\\wwwroot\\images\\products\\product-5\\bac3fb8c-9b1d-42c5-96f9-f98dd0061db1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-5\\bac3fb8c-9b1d-42c5-96f9-f98dd0061db1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\botik\\source\\repos\\GuitarCenterWeb\\GuitarCenterWeb\\wwwroot\\images\\products\\product-6\\5a016183-c51f-4127-b086-a59fc8491958.jpeg",
+      "PackagePath": "staticwebassets\\images\\products\\product-6\\5a016183-c51f-4127-b086-a59fc8491958.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\botik\\source\\repos\\GuitarCenterWeb\\GuitarCenterWeb\\wwwroot\\js\\company.js",
+      "PackagePath": "staticwebassets\\js\\company.js"
+    },
+    {
+      "Id": "C:\\Users\\botik\\source\\repos\\GuitarCenterWeb\\GuitarCenterWeb\\wwwroot\\js\\order.js",
+      "PackagePath": "staticwebassets\\js\\order.js"
+    },
+    {
+      "Id": "C:\\Users\\botik\\source\\repos\\GuitarCenterWeb\\GuitarCenterWeb\\wwwroot\\js\\product.js",
+      "PackagePath": "staticwebassets\\js\\product.js"
+    },
+    {
+      "Id": "C:\\Users\\botik\\source\\repos\\GuitarCenterWeb\\GuitarCenterWeb\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\botik\\source\\repos\\GuitarCenterWeb\\GuitarCenterWeb\\wwwroot\\js\\user.js",
+      "PackagePath": "staticwebassets\\js\\user.js"
+    },
+    {
+      "Id": "C:\\Users\\botik\\source\\repos\\GuitarCenterWeb\\GuitarCenterWeb\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\botik\\source\\repos\\GuitarCenterWeb\\GuitarCenterWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\botik\\source\\repos\\GuitarCenterWeb\\GuitarCenterWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\botik\\source\\repos\\GuitarCenterWeb\\GuitarCenterWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\botik\\source\\repos\\GuitarCenterWeb\\GuitarCenterWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\botik\\source\\repos\\GuitarCenterWeb\\GuitarCenterWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\botik\\source\\repos\\GuitarCenterWeb\\GuitarCenterWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\botik\\source\\repos\\GuitarCenterWeb\\GuitarCenterWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\botik\\source\\repos\\GuitarCenterWeb\\GuitarCenterWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\botik\\source\\repos\\GuitarCenterWeb\\GuitarCenterWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\botik\\source\\repos\\GuitarCenterWeb\\GuitarCenterWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\botik\\source\\repos\\GuitarCenterWeb\\GuitarCenterWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\botik\\source\\repos\\GuitarCenterWeb\\GuitarCenterWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\botik\\source\\repos\\GuitarCenterWeb\\GuitarCenterWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\botik\\source\\repos\\GuitarCenterWeb\\GuitarCenterWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\botik\\source\\repos\\GuitarCenterWeb\\GuitarCenterWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\botik\\source\\repos\\GuitarCenterWeb\\GuitarCenterWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\botik\\source\\repos\\GuitarCenterWeb\\GuitarCenterWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\botik\\source\\repos\\GuitarCenterWeb\\GuitarCenterWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\botik\\source\\repos\\GuitarCenterWeb\\GuitarCenterWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\botik\\source\\repos\\GuitarCenterWeb\\GuitarCenterWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\botik\\source\\repos\\GuitarCenterWeb\\GuitarCenterWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\botik\\source\\repos\\GuitarCenterWeb\\GuitarCenterWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\botik\\source\\repos\\GuitarCenterWeb\\GuitarCenterWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\botik\\source\\repos\\GuitarCenterWeb\\GuitarCenterWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\botik\\source\\repos\\GuitarCenterWeb\\GuitarCenterWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\botik\\source\\repos\\GuitarCenterWeb\\GuitarCenterWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\botik\\source\\repos\\GuitarCenterWeb\\GuitarCenterWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\botik\\source\\repos\\GuitarCenterWeb\\GuitarCenterWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\botik\\source\\repos\\GuitarCenterWeb\\GuitarCenterWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\botik\\source\\repos\\GuitarCenterWeb\\GuitarCenterWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\botik\\source\\repos\\GuitarCenterWeb\\GuitarCenterWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\botik\\source\\repos\\GuitarCenterWeb\\GuitarCenterWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\botik\\source\\repos\\GuitarCenterWeb\\GuitarCenterWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\botik\\source\\repos\\GuitarCenterWeb\\GuitarCenterWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\botik\\source\\repos\\GuitarCenterWeb\\GuitarCenterWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\botik\\source\\repos\\GuitarCenterWeb\\GuitarCenterWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\botik\\source\\repos\\GuitarCenterWeb\\GuitarCenterWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\botik\\source\\repos\\GuitarCenterWeb\\GuitarCenterWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\botik\\source\\repos\\GuitarCenterWeb\\GuitarCenterWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\botik\\source\\repos\\GuitarCenterWeb\\GuitarCenterWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\botik\\source\\repos\\GuitarCenterWeb\\GuitarCenterWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\botik\\source\\repos\\GuitarCenterWeb\\GuitarCenterWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\botik\\source\\repos\\GuitarCenterWeb\\GuitarCenterWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\botik\\source\\repos\\GuitarCenterWeb\\GuitarCenterWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\botik\\source\\repos\\GuitarCenterWeb\\GuitarCenterWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\botik\\source\\repos\\GuitarCenterWeb\\GuitarCenterWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\botik\\source\\repos\\GuitarCenterWeb\\GuitarCenterWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\botik\\source\\repos\\GuitarCenterWeb\\GuitarCenterWeb\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\botik\\source\\repos\\GuitarCenterWeb\\GuitarCenterWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\botik\\source\\repos\\GuitarCenterWeb\\GuitarCenterWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\botik\\source\\repos\\GuitarCenterWeb\\GuitarCenterWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\botik\\source\\repos\\GuitarCenterWeb\\GuitarCenterWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\botik\\source\\repos\\GuitarCenterWeb\\GuitarCenterWeb\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\botik\\source\\repos\\GuitarCenterWeb\\GuitarCenterWeb\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\botik\\source\\repos\\GuitarCenterWeb\\GuitarCenterWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\botik\\source\\repos\\GuitarCenterWeb\\GuitarCenterWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.TickSellWeb.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.TickSellWeb.props",
+      "PackagePath": "build\\TickSellWeb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.TickSellWeb.props",
+      "PackagePath": "buildMultiTargeting\\TickSellWeb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.TickSellWeb.props",
+      "PackagePath": "buildTransitive\\TickSellWeb.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
